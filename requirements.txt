@@ -1,5 +1,6 @@
 streamlit>=1.30.0
 yfinance>=0.2.36
 pandas>=2.2.0
-statsmodels
+statsmodels>=0.14.0
+scipy>=1.10.0
 matplotlib>=3.8.0
