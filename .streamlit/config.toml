@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+[server]
+headless = true
+runOnSave = true
+
+[theme]
+base = "light"
+primaryColor = "#0068c9"
